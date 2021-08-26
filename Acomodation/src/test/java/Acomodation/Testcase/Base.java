@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -19,9 +20,10 @@ import Acomodation.Utilites.Readproperty;
 
 public class Base {
 	public static WebDriver driver;
+	Readproperty r = new Readproperty();
 	public static Logger logger;
 
-	Readproperty r = new Readproperty();
+	
 
 	public WebDriver initializedriver(String browser) {
 
@@ -38,6 +40,10 @@ public class Base {
 
 	@BeforeMethod
 	public void lunchderiver() {
+		logger = Logger.getLogger("Acomodation");
+		PropertyConfigurator.configure("Log4j.properties");
+		driver=initializedriver("Chrome");
+		
 		logger.info("Enter the link");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(r.URL());
@@ -47,6 +53,7 @@ public class Base {
 	@AfterMethod
 
 	public void closebrowser() {
+		
 		logger.info("The Browser redy to close");
 		try {
 			Thread.sleep(1000);
