@@ -58,7 +58,7 @@ public class Base {
 		logger.info("Browser closed");
 	}
 
-	public void takescreenshots(String testcasename, String status, WebDriver driver) throws IOException {
+	public String takescreenshots(String testcasename, String status, WebDriver driver) throws IOException {
 		logger.info("Will take a screenshots");
 		String timestamp = new SimpleDateFormat("yyyy.mm.dd.hh.ss").format(new Date());
 		TakesScreenshot ts = (TakesScreenshot) driver;
@@ -71,6 +71,8 @@ public class Base {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
 		logger.info("Screenshots has been taken");
+		return filename;
 	}
 }

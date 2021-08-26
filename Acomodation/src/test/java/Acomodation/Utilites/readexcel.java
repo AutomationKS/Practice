@@ -13,6 +13,7 @@ public class readexcel {
 		XSSFWorkbook wb=new XSSFWorkbook(fi);
 		XSSFSheet s=wb.getSheetAt(sheetno);
 		String value=s.getRow(row).getCell(column).getStringCellValue();
+		wb.close();
 		return value;
 		
 		
