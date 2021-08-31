@@ -11,7 +11,7 @@ public class Extentreporting {
 	
 	public static ExtentReports getreport()
 	{
-		String timestamp= new SimpleDateFormat("yyyy.mm.dd.hh.ss").format(new Date());
+		String timestamp= new SimpleDateFormat("yyyy.MM.dd.hh.mm.ss").format(new Date());
 		String path=System.getProperty("user.dir")+"/reports/"+ timestamp +"index.html";
 		ExtentSparkReporter reporter=new ExtentSparkReporter(path);
 		reporter.config().setReportName("KumarAutomations");

@@ -1,15 +1,92 @@
-2021-08-26 16:09:23,596 [main] INFO Acomodation - Chrome browser intitiated
-2021-08-26 16:09:25,763 [main] INFO Acomodation - Browser open successfully
-2021-08-26 16:09:25,764 [main] INFO Acomodation - Enter the link
-2021-08-26 16:09:51,786 [main] INFO Acomodation - Home page displayed
-2021-08-26 16:09:51,948 [main] INFO Acomodation - navigate to the Holiday page
-2021-08-26 16:09:51,948 [main] INFO Acomodation - Take the screenshots
-2021-08-26 16:09:51,948 [main] INFO Acomodation - Will take a screenshots
-2021-08-26 16:09:55,962 [main] INFO Acomodation - Screenshots has been taken
-2021-08-26 16:09:55,962 [main] INFO Acomodation - Screen shot for holiday hasbeen taken
-2021-08-26 16:09:55,966 [main] INFO Acomodation - Will take a screenshots
-2021-08-26 16:09:59,730 [main] INFO Acomodation - Screenshots has been taken
-2021-08-26 16:09:59,731 [main] INFO Acomodation - Will take a screenshots
-2021-08-26 16:10:03,149 [main] INFO Acomodation - Screenshots has been taken
-2021-08-26 16:10:03,152 [main] INFO Acomodation - The Browser redy to close
-2021-08-26 16:10:04,244 [main] INFO Acomodation - Browser closed
+2021-08-27 12:09:08,810 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-27 12:09:11,870 [main] INFO Acomodation - Browser open successfully
+2021-08-27 12:09:11,871 [main] INFO Acomodation - Enter the link
+2021-08-27 12:09:42,087 [main] INFO Acomodation - Home page displayed
+2021-08-27 12:09:42,346 [main] INFO Acomodation - navigate to the Holiday page
+2021-08-27 12:09:42,347 [main] INFO Acomodation - Take the screenshots for holiday page
+2021-08-27 12:09:42,348 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:09:47,461 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:09:47,462 [main] INFO Acomodation - Screen shot for holiday hasbeen taken
+2021-08-27 12:09:47,616 [main] INFO Acomodation - Navigate to the hotels
+2021-08-27 12:09:47,618 [main] INFO Acomodation - Take screenshots for hotels 
+2021-08-27 12:09:47,620 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:09:51,921 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:09:51,923 [main] INFO Acomodation - Screenshots taken
+2021-08-27 12:09:52,085 [main] INFO Acomodation - Navigate to the flight
+2021-08-27 12:09:52,087 [main] INFO Acomodation - Take screenshots for flight 
+2021-08-27 12:09:52,091 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:09:56,816 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:09:56,819 [main] INFO Acomodation - Screenshots taken
+2021-08-27 12:09:56,830 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:10:01,209 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:10:01,220 [main] INFO Acomodation - The Browser redy to close
+2021-08-27 12:10:02,384 [main] INFO Acomodation - Browser closed
+2021-08-27 12:10:03,288 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-27 12:10:05,747 [main] INFO Acomodation - Browser open successfully
+2021-08-27 12:10:05,748 [main] INFO Acomodation - Enter the link
+2021-08-27 12:10:36,479 [main] INFO Acomodation - Home page displayed
+2021-08-27 12:10:37,088 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:10:40,426 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:10:40,428 [main] INFO Acomodation - The Browser redy to close
+2021-08-27 12:10:41,618 [main] INFO Acomodation - Browser closed
+2021-08-27 12:27:20,218 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-27 12:27:23,377 [main] INFO Acomodation - Browser open successfully
+2021-08-27 12:27:23,378 [main] INFO Acomodation - Enter the link
+2021-08-27 12:27:50,645 [main] INFO Acomodation - Home page displayed
+2021-08-27 12:27:54,382 [main] INFO Acomodation - Will take a screenshots
+2021-08-27 12:27:58,101 [main] INFO Acomodation - Screenshots has been taken
+2021-08-27 12:27:58,115 [main] INFO Acomodation - The Browser redy to close
+2021-08-27 12:27:59,321 [main] INFO Acomodation - Browser closed
+2021-08-31 14:45:54,873 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 14:45:57,237 [main] INFO Acomodation - Browser open successfully
+2021-08-31 14:45:57,237 [main] INFO Acomodation - Enter the link
+2021-08-31 14:46:05,460 [main] INFO Acomodation - Home page displayed
+2021-08-31 14:46:06,385 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 14:46:07,466 [main] INFO Acomodation - Browser closed
+2021-08-31 14:49:38,792 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 14:49:40,768 [main] INFO Acomodation - Browser open successfully
+2021-08-31 14:49:40,770 [main] INFO Acomodation - Enter the link
+2021-08-31 14:49:47,520 [main] INFO Acomodation - Home page displayed
+2021-08-31 14:49:48,339 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 14:49:49,471 [main] INFO Acomodation - Browser closed
+2021-08-31 14:55:18,547 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 14:55:20,485 [main] INFO Acomodation - Browser open successfully
+2021-08-31 14:55:20,486 [main] INFO Acomodation - Enter the link
+2021-08-31 14:55:26,993 [main] INFO Acomodation - Home page displayed
+2021-08-31 14:55:27,848 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 14:55:29,282 [main] INFO Acomodation - Browser closed
+2021-08-31 14:58:57,306 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 14:58:59,807 [main] INFO Acomodation - Browser open successfully
+2021-08-31 14:58:59,808 [main] INFO Acomodation - Enter the link
+2021-08-31 14:59:06,612 [main] INFO Acomodation - Home page displayed
+2021-08-31 14:59:10,156 [main] INFO Acomodation - Will take a screenshots
+2021-08-31 14:59:13,636 [main] INFO Acomodation - Screenshots has been taken
+2021-08-31 14:59:13,642 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 14:59:18,807 [main] INFO Acomodation - Browser closed
+2021-08-31 17:10:49,039 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 17:10:51,686 [main] INFO Acomodation - Browser open successfully
+2021-08-31 17:10:51,687 [main] INFO Acomodation - Enter the link
+2021-08-31 17:10:57,440 [main] INFO Acomodation - Home page displayed
+2021-08-31 17:10:58,499 [main] INFO Acomodation - Fomcity details entered
+2021-08-31 17:11:01,055 [main] INFO Acomodation - Will take a screenshots
+2021-08-31 17:11:04,917 [main] INFO Acomodation - Screenshots has been taken
+2021-08-31 17:11:04,924 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 17:11:10,053 [main] INFO Acomodation - Browser closed
+2021-08-31 17:12:24,539 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 17:12:26,530 [main] INFO Acomodation - Browser open successfully
+2021-08-31 17:12:26,530 [main] INFO Acomodation - Enter the link
+2021-08-31 17:12:32,618 [main] INFO Acomodation - Home page displayed
+2021-08-31 17:12:33,639 [main] INFO Acomodation - Fomcity details entered
+2021-08-31 17:12:36,098 [main] INFO Acomodation - Will take a screenshots
+2021-08-31 17:12:39,862 [main] INFO Acomodation - Screenshots has been taken
+2021-08-31 17:12:39,869 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 17:12:40,946 [main] INFO Acomodation - Browser closed
+2021-08-31 17:17:37,719 [main] INFO Acomodation - Chrome browser intitiated
+2021-08-31 17:17:39,722 [main] INFO Acomodation - Browser open successfully
+2021-08-31 17:17:39,723 [main] INFO Acomodation - Enter the link
+2021-08-31 17:17:57,440 [main] INFO Acomodation - Home page displayed
+2021-08-31 17:17:58,494 [main] INFO Acomodation - Fomcity details entered
+2021-08-31 17:18:02,787 [main] INFO Acomodation - Will take a screenshots
+2021-08-31 17:18:06,408 [main] INFO Acomodation - Screenshots has been taken
+2021-08-31 17:18:06,413 [main] INFO Acomodation - The Browser redy to close
+2021-08-31 17:18:07,502 [main] INFO Acomodation - Browser closed

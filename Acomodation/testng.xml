@@ -9,4 +9,13 @@
       <class name="Acomodation.Testcase.Testcase_01_navigationcheck_All_Page"/>
     </classes>
   </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+      <class name="Acomodation.Testcase.Testcase_02_flightbook"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+  
 </suite> <!-- Suite -->

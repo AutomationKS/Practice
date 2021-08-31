@@ -31,12 +31,12 @@ public class Listners extends Base implements ITestListener {
 		extenttest.get().generateLog(Status.PASS, "Test Pass successfully");
 	
 	String filename=result.getMethod().getMethodName();
-		try {
+		/*try {
 			takescreenshots(filename, "Pass",driver);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
-		}
+		}*/
 		try {
 			extenttest.get().addScreenCaptureFromPath(takescreenshots(filename, "Pass", driver),result.getMethod().getMethodName());
 		} catch (IOException e) {
